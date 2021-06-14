@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lawre3nce
+- 👋 Hi, I’m Themba Lekhebotsane
 - 👀 I’m interested in building and deploying software 
 - 🌱 I’m currently learning c++, My SQL 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any software that will be build
 - 📫 How to reach me on my email address on lekhebotsanelawrence@gmail.com
 
 <!---
